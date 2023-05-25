@@ -8,4 +8,4 @@ const product = {
     available : true
 }
 
-console.log(product);
+console.log(product); 
