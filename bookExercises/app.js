@@ -23,3 +23,10 @@ console.log(plus(2)); // --> 3
 
 
 // cuando combinas funciones con objetos, se obtienen metodos
+function Point(x, y) { //metodo contructor
+    this.x = x;
+    this.y = y;
+}
+var p = new Point(2, 4);
+console.log(p);
+
