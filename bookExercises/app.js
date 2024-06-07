@@ -18,6 +18,7 @@ console.log(primes[3]); // --> 14
 // una funcion es un bloque de codigo nombrado y parametrizado
 function plus(x) { // declaramos la funcion plus
     return x + 1; // nos retorna el valor de x (que es el parametro) + 1
+
 }
 console.log(plus(2)); // --> 3
 
